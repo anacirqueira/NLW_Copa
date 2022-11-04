@@ -19,6 +19,8 @@ document.querySelector("#app").innerHTML = `
   </header>
   <main id="cards">
   ${createCard()}
+  ${createCard()}
+  ${createCard()}
   </main>
 `
 
